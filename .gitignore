@@ -61,3 +61,10 @@ crashlytics-build.properties
 *.sln
 *.Editor
 *.anim
+*.meta
+*.prefab
+*.jpg
+*.asset
+*.controller
+*.png
+*.unity
